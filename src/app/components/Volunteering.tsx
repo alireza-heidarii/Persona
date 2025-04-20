@@ -1,7 +1,6 @@
 import React from 'react';
 import Image from "next/image";
 import elmosanat from "../../../public/images/elmosanat.jpg"
-import noImage from "../../../public/images/no-image.jpg"
 import sadr from "../../../public/images/sadr.jpg"
 
 const Volunteering = () => {
