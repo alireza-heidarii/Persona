@@ -60,7 +60,7 @@ const AboutMe = () => {
                         <LinkedinIcon className="text-white w-[22px] group-hover:text-blue-400" />
                     </Link>
 
-                    <Link href="https://github.com/Alirezahr75" target="_blank"
+                    <Link href="https://github.com/alireza-heidarii" target="_blank"
                           className="size-[2.2rem] rounded-full border border-white flex items-center justify-center group hover:border-blue-400">
                         <GithubIcon className="text-white w-[22px] group-hover:text-blue-400" />
                     </Link>
