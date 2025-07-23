@@ -40,9 +40,9 @@ const WorkExperience = () => {
             description: "Farsad Sanat Alborz",
             date: "Aug 2024 - Present",
             image: farsad,
-            info: ["Designed, developed, and deployed scalable ML solutions in production, solving business-critical challenges using advanced predictive modeling.",
-                    "Engineered and optimized RAG pipelines by integrating structured and unstructured data sources, improving response accuracy and system relevance.",
-                    "Trained, fine-tuned, and deployed LLMs, implementing backend services and distributed data pipelines for performance-optimized AI system."
+            info: ["Engineered and optimized RAG pipelines by integrating structured and unstructured data sources, increasing response accuracy and relevance by 25\%.",
+                    "Trained, fine-tuned, and deployed LLMs, implementing backend services and distributed data pipelines for performance-optimized AI system.",
+                    "Researched, designed, and implemented machine learning models for offer allocation and targeted advertising, leveraging data exploration, and contextual optimization techniques to enhance conversion rates by 40\%."
                 ]
         },
         {
@@ -50,10 +50,12 @@ const WorkExperience = () => {
             description: "Saba Tamin Management Services",
             date: "Jun 2022 - Jun 2024",
             image: saba,
-            info: ["Developed, maintained, and monitored scalable and optimized ETL pipelines to collect and process large datasets, ensuring data integrity, and quality.",
+            info: ["Developed, maintained, and monitored scalable ETL pipelines to collect and process large datasets, ensuring data integrity and quality, and improving performance by 50\%",
                     "Conducted in-depth statistical analysis, hypothesis and A/B tests on stock market trends and extracted complex findings into clear insights.",
-                    "Led the development and optimization of ML models in the production environment, resulting a 25\% increase in stock price prediction accuracy.",
-                    "Led a team of 7, identify and implement cutting-edge analytical techniques, ensuring alignment with best practices in the field of financial."
+                    "Led the development and optimization of ML models in the production environment, resulting a 37\% increase in stock price prediction accuracy.",
+                    "Applied prompt engineering techniques to fine-tune and deploy LLMs for automated financial report generation and market sentiment analysis, improving insight extraction efficiency by 23\%.",
+                    "Developed and deployed machine learning-driven offer allocation strategies to construct personalized investment portfolios, leveraging historical market data to optimize asset recommendations, increasing average portfolio return by 10\%.",
+                    "Led a team of 7, identify and implement cutting-edge analytical techniques, ensuring alignment with best practices in the field of financial services."
                 ]
         },
         {
