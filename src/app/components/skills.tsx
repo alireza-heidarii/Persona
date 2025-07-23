@@ -12,24 +12,25 @@ const Skills = () => {
         {
             title: "Tech Stack",
             icon: backend,
-            data: ["Python (8 Years Experience)", "Pandas", "R", "Scikit-Learn", "SciPy", "TensorFlow", "PyTorch", "SQL"],
+            data: ["Python (8 Years Experience)", "SQL", "Pandas", "R", "Scikit-Learn", "SciPy", "TensorFlow", "PyTorch", "HuggingFace"],
             animation: "fade-left"
-        },        {
+        },        
+        {
             title: "Machine Learning",
             icon: ai,
-            data: ["Regression", "Classification", "Clustering", "NLP", "LLMs", "RAG", "Generative AI", "Time Series"],
+            data: ["Generative AI", "Prompt Engineering", "RAG", "NLP", "LLMs", "OpenAI", "Claude", "Fine-Tuning", "Deep Learning", "Neural Networks"],
             animation: "fade-right"
         },
         {
             title: "Data Management",
             icon: database,
-            data: ["PostgreSQL", "Amazon S3", "Neo4J", "MongoDB", "Elasticsearch", "PySpark", "Airflow", "Kafka", "Spark Structured Streaming"],
+            data: ["PostgreSQL", "Pinecone", "Chroma", "Elasticsearch", "Redis", "MongoDB"],
             animation: "fade-right"
         },
         {
-            title: "Hands-On",
+            title: "Amazon Web Services",
             icon: devops,
-            data: ["AWS", "Docker", "Flask", "FastAPI", "gRPC", "Matplotlib", "Power BI", "Streamlit"],
+            data: ["EC2", "Lambda", "OpenSearch", "Bedrock", "SageMaker"],
             animation: "fade-left"
         }
     ];
