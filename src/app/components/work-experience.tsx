@@ -36,9 +36,20 @@ const WorkExperience = () => {
 
     const workItems: TTimeLineItems[] = [
         {
+            title: "Machine Learning Engineer, Data Engineer",
+            description: "Humanitas Solutions",
+            date: "Aug 2025 - Present",
+            image: humanitas,
+            info: ["Engineered and implemented a certified, audit-ready data pipeline for the aerospace industry to ingest, process, transform, and validate both real-time and synthetic data streams. Incorporated rule-based value validations, blockchain mechanisms for traceability, and compliance checks to ensure regulatory adherence, data integrity, and reliability across mission-critical workflows.",
+                    "Developed, optimized, and deployed advanced gradient boosting models for predictive maintenance in drones and aircraft. Leveraged time-series sensor data and anomaly detection techniques to accurately identify defects and forecast component failures, improving fleet reliability, reducing unplanned downtime, and enhancing operational safety in aerospace systems.",
+                    "Built a reliable, production-grade environment for data and ML projects from the ground up by deploying Kubernetes (RKE2 with Rancher and MetalLB) and integrating a robust ecosystem of tools including Kafka, MinIO, OpenSearch, and Apache Airflow to support scalable data pipelines and machine learning workflows.",
+                    "Researched and engineered a Retrieval-Augmented Generation (RAG) pipeline leveraging pre-trained multimodal small language models (SLMs) to support aircraft maintenance operations. Integrated technical manuals, historical maintenance records, and expert domain knowledge into the pipeline, enabling faster fault diagnosis, more accurate repair recommendations, and improved decision-making efficiency for detection and maintenance processes."
+                ]
+        },
+        {
             title: "AI/ML Engineer, Data Architect",
             description: "Farsad Sanat Alborz",
-            date: "Aug 2024 - Present",
+            date: "Aug 2024 - Jul 2025",
             image: farsad,
             info: ["Engineered and optimized RAG pipelines by integrating structured and unstructured data sources, increasing response accuracy and relevance by 25\%.",
                     "Trained, fine-tuned, and deployed LLMs, implementing backend services and distributed data pipelines for performance-optimized AI system.",
