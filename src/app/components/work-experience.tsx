@@ -7,6 +7,7 @@ import mahsan from "../../../public/images/mahsan.jpg"
 import tehran from "../../../public/images/tehran.jpg"
 import bazar from "../../../public/images/cafebazaar.jpg"
 import elmosanat from "../../../public/images/elmosanat.jpg"
+import humanitas from "../../../public/images/humanitas.jpg"
 import Image, {StaticImageData} from "next/image";
 import {useState} from "react";
 import Modal from "@/templates/components/modal";
